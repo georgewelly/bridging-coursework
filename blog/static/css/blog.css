@@ -1,8 +1,8 @@
-body {
+.body {
     padding-left: 30px;
 }
 
-h1 a, h2 a {
+.h1 a, h2 a {
     color: #ec0000;
 }
 
