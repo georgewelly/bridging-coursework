@@ -41,4 +41,4 @@ Following the completion of the first five chapters, using a TDD approach, you s
 
  Please include a blog post on how you used TDD to develop this and ensure that your tests and all relevant files are pushed to your GitHub.
  
- 
+ important command for python anywhere console: python3 manage.py collectstatic
